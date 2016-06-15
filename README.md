@@ -1,0 +1,3 @@
+# wedge
+extends wedge
+perfect
